@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.projetojpa.Farmacia.Entity.Drogaria;
 import com.projetojpa.Farmacia.Entity.Medicamento;
 import com.projetojpa.Farmacia.Service.MedicamentoService;
 
